@@ -36,6 +36,9 @@ Advertising & Business Group in Addis Ababa, Ethiopia our service vary from webs
 ### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+Markdown   1 min           ███████████████████████▓░   94.41 % 
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
