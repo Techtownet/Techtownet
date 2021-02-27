@@ -37,11 +37,9 @@ Advertising & Business Group in Addis Ababa, Ethiopia our service vary from webs
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 43 mins    ████████████████████▒░░░░   81.34 % 
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-XML          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+XML          6 mins          ███████████▓░░░░░░░░░░░░░   46.46 % 
+JavaScript   6 mins          ███████████░░░░░░░░░░░░░░   44.37 % 
+Groovy       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 <!--END_SECTION:waka-->
 
